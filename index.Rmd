@@ -1,0 +1,18 @@
+---
+title: "Clase - 15"
+author: "Jose A Rincón S - 1004864116"
+date: "23/5/2022"
+output: html_document
+---
+
+```{r echo=FALSE}
+mtcars
+```
+
+## subtitulo 1
+
+
+
+### subtitulo 2 
+* hola
+* hola
